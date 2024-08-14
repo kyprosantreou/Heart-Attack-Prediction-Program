@@ -1,4 +1,4 @@
-# Heart-Attack-Prediction
+# Heart Attack Prediction Program
 This Python program provides a user-friendly menu to select and run different machine learning models on a heart attack dataset. The available models include Decision Tree, Random Forest, K-Nearest Neighbour (KNN), Support Vector Machine (SVM), and Naive Bayes. Additionally, the program allows the user to execute all the models in sequence.
 
 ## Features
@@ -19,3 +19,6 @@ You can install them using pip if they are not already installed:
 
 ```bash
 pip install -r requirements.txt
+
+### Author:
+Kypros Andreou
