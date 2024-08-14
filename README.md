@@ -17,8 +17,9 @@ Make sure you have the following Python libraries installed:
 
 You can install them using pip if they are not already installed:
 
-```bash
+```
 pip install -r requirements.txt
+```
 
 ### Author:
 Kypros Andreou
